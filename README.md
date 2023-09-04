@@ -14,4 +14,4 @@ QQ群：916663510
 
 知识岛社区文档： https://docs.qq.com/aio/DVXZ6d3V6T2lYaENP?p=0Tv6BON3xXocBIBQ629PMO。
 
-Dodo平台：https://imdodo.com/s/209426?inv=4RL32（主要看中了dodo类似于discord的在线语音功能以及积分系统，可以用来量化成员的贡献）
+Dodo平台：https://imdodo.com/s/209426?inv=4RL32  （主要看中了dodo类似于discord的在线语音功能以及积分系统，可以用来量化成员的贡献）
