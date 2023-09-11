@@ -16,6 +16,8 @@ a、餐饮行业8000问，来源：2022年和2023年餐饮行业报告与行业�
 
 2、百度知道，来源：百度知道的帖子（2017年的数据整理），共211741条问答对，1.3M的tokens总数（680k汉字总数），42M的tokens总数（21M汉字总数），由于训练数据超过git的文件上限（25mb），因此可在hugging face上查看：https://huggingface.co/datasets/LIUshu123/knowledgeDAO/tree/main/WebQA
 
+3、Alpaca中文数据集：使用SeamlessM4T + Kaggle线上部署的方式翻译，并未人工进行校正，token总数7.8M（汉字数：3930639）。
+
 # 知识岛项目参与方式
 QQ群：916663510
 
