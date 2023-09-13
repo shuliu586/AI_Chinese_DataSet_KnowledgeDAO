@@ -24,6 +24,12 @@ Update:由于Hugging Face目前无法访问，百度知道的数据集放到百�
 
 使用SeamlessM4T + Kaggle线上部署的方式翻译，并未人工进行校正，token总数7.8M（汉字数：3930639）。感谢项目切分的英文数据集：https://github.com/hikariming/alpaca_chinese_dataset/tree/main/
 
+4、计算机领域数据集
+
+分为标签版和不含标签版
+
+百度网盘链接：https://pan.baidu.com/s/1S5iqho0kFbbbiBtltz5yVA?pwd=cbki ，解压密码为知识岛QQ群号。
+
 # 知识岛项目参与方式
 QQ群：916663510
 
