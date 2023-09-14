@@ -12,21 +12,21 @@ OpenAI完成数据集的收集花费了巨大成本，以至于需要从微软�
 # 知识岛目前的数据集
 1、餐饮行业：
 
-a、餐饮行业8000问，来源：2022年和2023年餐饮行业报告与行业白皮书，由chatGPT 3.5负责整理总结，共8204条问答对，1.3M的tokens总数（680k汉字总数）
+a、餐饮行业8000问，来源：2022年和2023年餐饮行业报告与行业白皮书，由chatGPT 3.5负责整理总结，共8204条问答对，tokens总数1.3M（680k汉字总数）
 
 2、百度知道
 
-来源：百度知道的帖子（2017年的数据整理），共211741条问答对，1.3M的tokens总数（680k汉字总数），42M的tokens总数（21M汉字总数），由于训练数据超过git的文件上限（25mb），因此可在hugging face上查看：https://huggingface.co/datasets/LIUshu123/knowledgeDAO/tree/main/WebQA
+来源：百度知道的帖子（2017年的数据整理），共211741条问答对，tokens总数42M（汉字总数：21,103,292），由于训练数据超过git的文件上限（25mb），因此可在hugging face上查看：https://huggingface.co/datasets/LIUshu123/knowledgeDAO/tree/main/WebQA
 
 Update:由于Hugging Face目前无法访问，百度知道的数据集放到百度网盘下载，链接：https://pan.baidu.com/s/1jQvo9iLqdPFJo01A3iZjSg?pwd=4u5t ，解压密码为知识岛QQ群号。
 
 3、Alpaca中文数据集
 
-使用SeamlessM4T + Kaggle线上部署的方式翻译，并未人工进行校正，token总数7.8M（汉字数：3930639）。感谢项目切分的英文数据集：https://github.com/hikariming/alpaca_chinese_dataset/tree/main/
+使用SeamlessM4T + Kaggle线上部署的方式翻译，并未人工进行校正，token总数7.8M（汉字总数：3,930,639）。感谢项目切分的英文数据集：https://github.com/hikariming/alpaca_chinese_dataset/tree/main/
 
 4、计算机领域数据集
 
-分为标签版和不含标签版
+分为标签版和不含标签版，共20443条问答对，token总数12M（汉字总数：6,036,955）
 
 百度网盘链接：https://pan.baidu.com/s/1S5iqho0kFbbbiBtltz5yVA?pwd=cbki ，解压密码为知识岛QQ群号。
 
