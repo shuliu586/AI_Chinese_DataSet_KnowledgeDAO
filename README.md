@@ -28,7 +28,7 @@ Update:由于Hugging Face目前无法访问，百度知道的数据集放到百�
 
 分为标签版和不含标签版，共20443条问答对，token总数12M（汉字总数：6,036,955）
 
-百度网盘链接：https://pan.baidu.com/s/1S5iqho0kFbbbiBtltz5yVA?pwd=cbki ，解压密码为知识岛QQ群号。
+百度网盘链接：https://pan.baidu.com/s/169IYPXDc8k1VK34gTENegg?pwd=kyvi ，解压密码为知识岛QQ群号。
 
 # 知识岛项目参与方式
 QQ群：916663510
