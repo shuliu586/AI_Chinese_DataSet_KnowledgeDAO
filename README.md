@@ -30,6 +30,12 @@ Update:由于Hugging Face目前无法访问，百度知道的数据集放到百�
 
 百度网盘链接：https://pan.baidu.com/s/169IYPXDc8k1VK34gTENegg?pwd=kyvi ，解压密码为知识岛QQ群号。
 
+5、Vicuna数据集
+
+Chinese-Vicuna中文数据集，token总数177.7M（汉字数：88848744）。
+
+百度网盘链接：https://pan.baidu.com/s/1x1hxyZyBimcp8KEsOdHUNw?pwd=lb9l ，解压密码为知识岛QQ群号。
+
 # 知识岛项目参与方式
 QQ群：916663510
 
