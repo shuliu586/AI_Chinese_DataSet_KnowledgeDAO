@@ -36,6 +36,19 @@ Chinese-Vicuna中文数据集，token总数177.7M（汉字数：88,848,744）。
 
 百度网盘链接：https://pan.baidu.com/s/1x1hxyZyBimcp8KEsOdHUNw?pwd=lb9l ，解压密码为知识岛QQ群号。
 
+6、RedPajama数据集
+
+a、StackChange数据集（翻译中...)
+
+7、Wikipedia中文词条数据集
+
+包含名词、人物、地名等的词条介绍，token总数683.6M（汉字数：341,816,586）。
+
+百度网盘链接： ，解压密码为知识岛QQ群号。
+
+
+
+
 # 知识岛项目参与方式
 QQ群：916663510
 
