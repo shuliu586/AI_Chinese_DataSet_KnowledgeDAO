@@ -47,11 +47,11 @@ a、StackChange数据集（翻译中...)
 百度网盘链接： ，解压密码为知识岛QQ群号。
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell Line 1
-Content Cell  | Content Cell Line 2
-Content Cell  | Content Cell Line 3
+序号 | 数据集名称    |          简介         |   Token 总数  |    汉字数   |  下载地址
+---- | ------------- | ------------- | ------------- | ------------- | -------------
+1  | 餐饮行业8000问  |2022年和2023年餐饮行业报告与行业白皮书，由chatGPT 3.5负责整理总结，共8204条问答对|
+2  | Content Cell Line 2
+3  | Content Cell Line 3
 
 
 # 知识岛项目参与方式
