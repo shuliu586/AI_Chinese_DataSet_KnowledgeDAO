@@ -25,7 +25,7 @@ OpenAI完成数据集的收集花费了巨大成本，以至于需要从微软�
 4 | 计算机领域数据集 |分为标签版和不含标签版，共20443条问答对| 12M |6,036,955| [百度网盘](https://pan.baidu.com/s/169IYPXDc8k1VK34gTENegg?pwd=kyvi)
 5 | Vicuna数据集 |Chinese-Vicuna中文数据集| 177.7M |88,848,744| [百度网盘](https://pan.baidu.com/s/1x1hxyZyBimcp8KEsOdHUNw?pwd=lb9l)
 6 | RedPajama数据集 |StackChange数据集（翻译中...)| 20B |
-7 | Wikipedia中文词条数据集 |包含名词、人物、地名等维基百科中文词条介绍（2019年的数据整理）| 683.6M |341,816,586|百度网盘
+7 | Wikipedia中文词条数据集 |包含名词、人物、地名等维基百科中文词条介绍（2019年的数据整理）| 683.6M |341,816,586|[百度网盘](https://pan.baidu.com/s/1uO9mPn1fDFa-gOxM0nEEAA?pwd=yzhn)
 
 
 # 知识岛项目参与方式
