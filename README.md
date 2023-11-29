@@ -11,7 +11,7 @@
 
 # 知识岛AI行业图谱（持续更新中，求Star...）
 
-整理国内外知名公司的AI模型（包括名称、价格、是否开源、上下文窗口等信息）、战略部署、AI产品、公司信息等，[点击查看].(https://mm.edrawsoft.cn/app/editor/Ea0K263xH9jUxypxWZjy8jlzQziL1WCq?share=1&page=4294967396&).
+整理国内外知名公司的AI模型（包括名称、价格、是否开源、上下文窗口等信息）、战略部署、AI产品、公司信息等，.[点击查看].(https://mm.edrawsoft.cn/app/editor/Ea0K263xH9jUxypxWZjy8jlzQziL1WCq?share=1&page=4294967396&).
 
 欢迎Issue提出修改建议，或加入知识岛QQ群：916663510交流申请编辑权限。
 
