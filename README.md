@@ -9,6 +9,12 @@
 
 如果您有意向参与此项目，我们将不胜感激。知识岛需要您的帮助，哪怕是一颗`star`，或者是在Issues提供数据来源，抑或加入[QQ群]("916663510")讨论或围观，也是我们不断更新的动力，感谢各位!
 
+# 知识岛AI行业图谱（持续更新中，求Star...）
+
+整理国内外知名公司的AI模型（包括名称、价格、是否开源、上下文窗口等信息）、战略部署、AI产品、公司信息等，[点击查看].(https://mm.edrawsoft.cn/app/editor/Ea0K263xH9jUxypxWZjy8jlzQziL1WCq?share=1&page=4294967396&).
+
+欢迎Issue提出修改建议，或加入知识岛QQ群：916663510交流申请编辑权限。
+
 # 知识岛数据集（持续更新中，求Star...）
 
   **注意：所有压缩文件的解压密码均为知识岛QQ群号。**
@@ -38,7 +44,7 @@ QQ群：916663510
 
 Dodo平台：https://imdodo.com/s/209426?inv=4RL32  （主要看中了dodo类似于discord的在线语音功能以及积分系统，可以用来量化成员的贡献）
 
-Hugging Face: https://huggingface.co/datasets/LIUshu123/knowledgeDAO
+Hugging Face: https://huggingface.co/datasets/LIUshu123/knowledgeDAO （已停止同步）
 
 # 知识岛需要的人
 作为知识岛的发起者，很惭愧我不是专业的技术人员，只会简单的代码（不懂的请教项目上的大神以及GPT），因此，知识岛需要的人：
